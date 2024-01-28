@@ -11,9 +11,20 @@ available, and service settings.
 4. There is no clear strategy for using external sources (X) to find popular hashtags,
 which may help improve public health communication and increase patient engagement.
 
+### Data Sources
+1. actual_duration.csv
+2. appointment_regional.csv
+3. national_cateogries.xlsx
+4. tweets.csv
+5. metadata_nhs.txt – metadata of the above CSV files combined.
 
+### Tools
+- Python (Jupyter Notebook)
 
-### Recommendations:
+### Data analysis 
+Please see attached file containing my Python Notebook.
+
+### Recommendations following analysis
 1. Standardised Data Entry practices: implement national standards for data entry across practice systems to enhance uniformity and reduce bias in data quality. Investment in a unified system can streamline data collection, for future exploration.
 2. Training Programs: provide training on data entry protocols to healthcare staff, promoting accurate recording of appointment information and improving overall data accuracy.
 3. Social Media Engagement: utilise social media platforms, such as (X) , to circulate information about the impact of missed appointments. This could look like creating awareness campaigns using engaging hashtags to discourage non-attendance.
