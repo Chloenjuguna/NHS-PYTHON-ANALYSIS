@@ -31,4 +31,5 @@ Please see attached file containing my Python Notebook.[Link here](https://githu
 4. Promotion of alternative appointment modes: encourage patients to book video/online appointments through social media promotion catering to those who are unable to attend physically, which may reduce the amount of missed appointments.
 5. Budget allocation: Focus budget allocation on maximising existing infrastructure and resources within the NHS, ensuring more efficient healthcare delivery.
 6. Observed appointment utilisation figures range from approximately 533,596 to 1,013,502. You may want to consider adjusting resources and staffing based on monthly variations to optimise efficiency to ensure that the NHS operates within or close to its planned capacity of 1,200, 000 appointments per day.
+
 These recommendations aim to address data quality issues, enhance patient engagement, increase the system’s responsiveness to varying demand levels and optimising resource allocation toward current infrastructure to help improve healthcare outcomes.
