@@ -22,7 +22,7 @@ which may help improve public health communication and increase patient engageme
 - Python (Jupyter Notebook)
 
 ### Data analysis 
-Please see attached file containing my Python Notebook.
+Please see attached file containing my Python Notebook.[Link here](https://github.com/Chloenjuguna/NHS-PYTHON-ANALYSIS/blob/main/NHS_Analysis.ipynb)
 
 ### Recommendations following analysis
 1. Standardised Data Entry practices: implement national standards for data entry across practice systems to enhance uniformity and reduce bias in data quality. Investment in a unified system can streamline data collection, for future exploration.
